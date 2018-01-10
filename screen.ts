@@ -22,8 +22,8 @@ export default class Screen {
       },
       xLabelPadding: 3,
       xPadding: 5,
-      minY: currentValue - (500.0 / howManyEuros),
-      maxY: currentValue + (500.0 / howManyEuros),
+      minY: currentValue - (100.0 / howManyEuros),
+      maxY: currentValue + (100.0 / howManyEuros),
       label: `Bitcoin price - BTC / ${howManyEuros} EUR`
     })
 
