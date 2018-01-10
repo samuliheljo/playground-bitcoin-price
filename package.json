@@ -1,0 +1,22 @@
+{
+  "name": "playground-bitcoin-price",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:samuliheljo/playground-bitcoin-price.git",
+  "author": "Samuli Heljo <samuli@samuliheljo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "0.1.81",
+    "blessed-contrib": "4.8.5",
+    "install": "0.10.2",
+    "moment": "2.20.1",
+    "node-fetch": "1.7.3",
+    "ts-node": "4.1.0",
+    "typescript": "2.6.2"
+  },
+  "devDependencies": {
+    "@types/blessed": "0.1.8",
+    "@types/moment": "2.13.0",
+    "@types/node-fetch": "1.6.7"
+  }
+}

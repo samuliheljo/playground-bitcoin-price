@@ -1,2 +1,11 @@
 # playground-bitcoin-price
-Command line graph for current Bitcoin price
+
+Blessed command line graph for current Bitcoin price.
+
+## Installation
+
+`npm install``
+
+## Run
+
+ts-node .
