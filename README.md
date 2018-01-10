@@ -4,8 +4,8 @@ Blessed command line graph for current Bitcoin price.
 
 ## Installation
 
-`npm install``
+`npm install`
 
 ## Run
 
-ts-node .
+`ts-node .`
