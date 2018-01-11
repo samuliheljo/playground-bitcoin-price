@@ -6,6 +6,8 @@ Blessed command line graph for current Bitcoin price.
 
 See https://github.com/samuliheljo/playgrounds/
 
+# Screenshot
+
 ![](screenshot.png)
 
 ## Installation
