@@ -2,6 +2,10 @@
 
 Blessed command line graph for current Bitcoin price.
 
+## What is a playground?
+
+See https://github.com/samuliheljo/playgrounds/
+
 ![](screenshot.png)
 
 ## Installation
